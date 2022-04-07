@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Eshma26
+- 👀 I’m highly interested in coding. 
+- 🌱 I’m currently learning c++.
